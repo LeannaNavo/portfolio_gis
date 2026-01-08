@@ -14,5 +14,5 @@ Research Question:
 
 What is the association between incinerator locations and rates of lung cancer and asthma in Florida?
 
-![LungCancerRates]({{ site.baseurl }}/assets/images/lungcancerrates.jpg)
+![LungRates} ({{ site.baseurl }}/assets/images/lungcancerrates.jpg)
 
