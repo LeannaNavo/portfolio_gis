@@ -12,4 +12,4 @@ description: Images and descriptions of previous projects
 
 Research Questions: 
 Are incinerators disproportionately placed in low-income communities in Florida?
-What is the association between incinerator locations and rates of lung cancer and asthma?
+What is the association between incinerator locations and rates of lung cancer and asthma in Florida?
