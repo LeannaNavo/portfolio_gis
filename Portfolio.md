@@ -1,2 +1,5 @@
+---
 layout: default
-title: "Portfolio"
+title: Portfolio
+description: Images and descriptions of previous projects
+---
