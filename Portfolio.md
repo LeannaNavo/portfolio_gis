@@ -109,8 +109,15 @@ NOAA Hurricane Center
 
 ### Research Question:
 
-How have rising global sea temperatures in 2016, 2018, 2020, 2022, and 2024 been associated with coral reef bleaching and overall reef health?
+How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2024 been associated with threats to coral reef health?
 
+### Maps
+
+<figure>
+  <img src="/assets/images/coralthreatened.gif"
+       alt="Coral Threatened by High SST">
+  <figcaption>Note: Unnaturally straight lines are due to data limitations, not workflow error. SST raster has spatial resolution of 0.25°</figcaption>
+</figure>
 
 ## Air-Polluting Facilities and Respiratory Health in Florida 
 
