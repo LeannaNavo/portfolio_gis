@@ -11,6 +11,6 @@ Hello and welcome to my GIS portfolio! My name is Leanna Navo and I'm a senior a
 
 ![Picture of Me](/assets/images/IMG_3884.jpeg)
 
-> This is a blockquote following a header.
+> “Always say “yes” to the present moment. What could be more futile, more insane, than to create inner resistance to what already is? what could be more insane than to oppose life itself, which is now and always now? Surrender to what is. Say “yes” to life — and see how life suddenly starts working for you rather than against you.”
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> ― Eckhart Tolle
