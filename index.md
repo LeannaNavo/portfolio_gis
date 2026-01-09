@@ -9,4 +9,8 @@ Hello and welcome to my GIS portfolio! My name is Leanna Navo and I'm a senior a
 
 *** 
 
+![Picture of Me](/assets/images/IMG_3884.jpeg)
 
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
