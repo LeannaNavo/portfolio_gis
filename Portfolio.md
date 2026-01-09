@@ -8,7 +8,25 @@ description: Images and descriptions of previous projects
 
 ***
 
+## Habitat Suitability Analysis for Puma concolor coryi
+
 ## Air-Polluting Facilities and Respiratory Health in Florida 
+
+### Research Question: 
+
+Where are critical areas of protection, restoration, expansion, or reintroduction for Florida Panthers?
+
+###### Reclassification Table
+
+| Item status | head1 | head two          | three |
+|:------------|:------|:------------------|:------|
+| ok          | ok    | good swedish fish | nice  |
+| out of stock| out   | good and plenty   | nice  |
+| ok          | ok    | good `oreos`      | hmm   |
+| ok          | ok    | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
 
 ### Research Question: 
 
@@ -34,7 +52,11 @@ What is the association between incinerator locations and rates of asthma in Flo
 * Hotspot Analysis 
 
 Data Sources:
+
 epa.gov
+
 flhealthcharts.gov
+
 Geodata.dep.state.fl.us 
+
 Energyjustice.net
