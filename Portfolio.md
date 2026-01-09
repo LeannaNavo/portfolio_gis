@@ -10,13 +10,11 @@ description: Images and descriptions of previous projects
 
 ## Habitat Suitability Analysis for Puma concolor coryi
 
-## Air-Polluting Facilities and Respiratory Health in Florida 
-
 ### Research Question: 
 
 Where are critical areas of protection, restoration, expansion, or reintroduction for Florida Panthers?
 
-###### Reclassification Table
+#### Reclassification Table
 
 <table class="suitability-table">
   <thead>
@@ -65,9 +63,9 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
   </tbody>
 </table>
 
+***
 
-### There's a horizontal rule below this.
-
+## Air-Polluting Facilities and Respiratory Health in Florida 
 
 ### Research Question: 
 
