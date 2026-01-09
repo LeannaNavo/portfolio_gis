@@ -63,6 +63,16 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
   </tbody>
 </table>
 
+#### Weights
+
+1. Land Cover- 35%
+1. Distance to Roadways- 30%
+1. Vegetation Condition- 20%
+1. Storm Surge Risk- 15%
+
+### Maps
+
+
 ***
 
 ## Air-Polluting Facilities and Respiratory Health in Florida 
@@ -70,6 +80,8 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 ### Research Question: 
 
 What is the association between incinerator locations and rates of asthma in Florida?
+
+### Maps
 
 ![Asthma rates map](/assets/images/asthmarates.jpg)
 
