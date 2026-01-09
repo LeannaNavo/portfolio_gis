@@ -10,7 +10,7 @@ description: Images and descriptions of previous projects
 
 ## Air-Polluting Facilities and Respiratory Health in Florida 
 
-Research Question: 
+### Research Question: 
 
 What is the association between incinerator locations and rates of asthma in Florida?
 
@@ -21,3 +21,8 @@ What is the association between incinerator locations and rates of asthma in Flo
 ![Air polluting facil map](/assets/images/air_polluting_rates.png)
 
 ![Air polluting facil hot spots map](/assets/images/air_polluting_hotspots.png)
+
+### Tools Used 
+* XY to Point tool
+* Spatial Join
+* Hotspot Analysis 
