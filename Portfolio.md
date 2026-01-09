@@ -26,3 +26,9 @@ What is the association between incinerator locations and rates of asthma in Flo
 * XY to Point tool
 * Spatial Join
 * Hotspot Analysis 
+
+Data Sources:
+epa.gov
+flhealthcharts.gov
+Geodata.dep.state.fl.us 
+Energyjustice.net
