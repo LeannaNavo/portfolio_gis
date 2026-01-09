@@ -82,7 +82,35 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 
 ![Suitability Model](/assets/images/suitability_model.png)
 
+#### Tools Used
+* Euclidean Distance
+* Clip Raster
+* Reclassify Raster
+* Suitability Modeler
+* Raster Calculator
+* Polygon to Raster Calculator 
+
+
+Data Sources:
+
+Florida Department of Transportation
+
+USDA Farm Services Agency
+
+National Land Cover Database
+
+NOAA Hurricane Center
+
+ 
+
 ***
+
+## Threatened Coral Reefs in the Florida Keys 
+
+### Research Question:
+
+How have rising global sea temperatures in 2016, 2018, 2020, 2022, and 2024 been associated with coral reef bleaching and overall reef health?
+
 
 ## Air-Polluting Facilities and Respiratory Health in Florida 
 
@@ -106,7 +134,7 @@ What is the association between incinerator locations and rates of asthma in Flo
   <figcaption>Association between Asthma Rates and Number of Incinerators in Florida Counties</figcaption>
 </figure>
 
-### Tools Used 
+#### Tools Used 
 * XY to Point tool
 * Spatial Join
 * Hotspot Analysis 
