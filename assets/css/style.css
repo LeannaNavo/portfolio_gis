@@ -1,6 +1,5 @@
 .main-content img {
+  width: 700px;
   max-width: 100%;
   height: auto;
-  display: block;
-  margin: 1.5rem auto;
 }
