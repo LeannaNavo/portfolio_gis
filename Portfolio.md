@@ -116,8 +116,28 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
 <figure>
   <img src="/assets/images/coralthreatened.gif"
        alt="Coral Threatened by High SST">
-  <figcaption>Note: Unnaturally straight lines are due to data limitations, not workflow error. SST raster has spatial resolution of 0.25°</figcaption>
+  <figcaption>Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°</figcaption>
 </figure>
+
+#### Tools Used
+
+* Eliminate Polygon Part Tool
+* Select by Attributes
+* Clip
+* Polygon to Raster
+* Make Multidimensional Raster Layer
+* Aggregate Multidimensional Raster
+* Reclassify
+* Resample
+* Raster Calculator
+
+Data Sources:
+
+NOAA
+
+Florida Fish and Wildlife Conservation Commission
+
+*** 
 
 ## Air-Polluting Facilities and Respiratory Health in Florida 
 
