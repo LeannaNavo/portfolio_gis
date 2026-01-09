@@ -114,11 +114,10 @@ How have rising global sea surface temperatures in 2016, 2018, 2020, 2022, and 2
 
 ### Maps
 
-<figure>
-  <img src="/assets/images/coralthreatened.gif"
-       alt="Coral Threatened by High SST">
-  <figcaption>Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°</figcaption>
-</figure>
+![Coral Threatened](/assets/images/coralthreatened.gif)
+Note: Unnaturally straight lines are due to data limitations, SST raster has spatial resolution of 0.25°
+
+
 
 #### Tools Used
 
@@ -156,11 +155,8 @@ What is the association between incinerator locations and rates of asthma in Flo
 
 ![Air polluting facil hot spots map](/assets/images/air_polluting_hotspots.png)
 
-<figure>
-  <img src="/assets/images/asthmaline.png"
-       alt="Association between Asthma Rates and Number of Incinerators in Florida Counties">
-  <figcaption>Association between Asthma Rates and Number of Incinerators in Florida Counties</figcaption>
-</figure>
+![Asthma Line Graph](/assets/images/asthmaline.png)
+Association between number of asthma hospitalizations and number of incinerators in Florida counties 
 
 #### Tools Used 
 * XY to Point tool
