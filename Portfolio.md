@@ -72,6 +72,11 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 
 ### Maps
 
+<img
+  class="map-image"
+  src="/assets/images/transformed_land.png"
+  alt="Transformed Land">
+
 ![Transformed Land](/assets/images/transformed_land.png)
 
 ![Transformed Road](/assets/images/transformed_road.png)
