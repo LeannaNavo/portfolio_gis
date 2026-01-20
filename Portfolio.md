@@ -4,7 +4,7 @@ title: Portfolio
 description: Images and descriptions of previous projects
 ---
 
-# Projects I've Completed on ArcGIS Pro
+# ArcGIS Pro Projects
 
 ***
 
