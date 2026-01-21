@@ -83,8 +83,7 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
     src="https://raw.githubusercontent.com/LeannaNavo/portfolio_gis/refs/heads/main/assets/images/transformed_vegetation.png"
     alt="Transformed Vegetation"
     width="675"
-    style="height: auto;"
-  >
+    style="height: auto;">
 
 ![Suitability Model](/assets/images/suitability_model.png)
 
