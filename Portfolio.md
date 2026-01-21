@@ -79,7 +79,12 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 
 ![Transformed Storm](/assets/images/transformed_storm.png)
 
-![Transformed Vegetation](/assets/images/transformed_vegetation.png)
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/portfolio_gis/refs/heads/main/assets/images/transformed_vegetation.png"
+    alt="Transformed Vegetation"
+    width="675"
+    style="height: auto;"
+  >
 
 ![Suitability Model](/assets/images/suitability_model.png)
 
