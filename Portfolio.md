@@ -72,6 +72,11 @@ Where are critical areas of protection, restoration, expansion, or reintroductio
 
 ### Maps
 
+<img 
+    src="https://raw.githubusercontent.com/LeannaNavo/portfolio_gis/refs/heads/main/assets/images/transformed_land.png"
+    alt="Transformed Land"
+    width="675"
+    style="height: auto;">
 
 ![Transformed Land](/assets/images/transformed_land.png)
 
